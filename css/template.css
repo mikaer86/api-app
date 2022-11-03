@@ -13,6 +13,12 @@ body {
   background-repeat: no-repeat;
 }
 
+.title {
+  font-family: 'Open Sans', sans-serif;
+  letter-spacing: 0.1rem;
+  color: whitesmoke;
+}
+
 .container {
   display: flex;
   min-width: 100%;
@@ -21,8 +27,10 @@ body {
   padding: 3rem;
 }
 
-.search-header {
+.search-container {
+  background-color: rgb(47, 47, 47);
   min-width: 100%;
+  padding: 3rem;
   display: flex;
 }
 
