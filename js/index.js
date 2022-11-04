@@ -1,3 +1,4 @@
+ //render the the weather data with the html elements
  function renderWeatherElements(weather) {
   console.log(weather);
   const location = document.getElementById('location');
