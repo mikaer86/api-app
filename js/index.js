@@ -39,6 +39,6 @@ getWeatherData().catch((error) => {
 
 
 
-getWeatherData("London");
+getWeatherData("Stockholm");
 
 
