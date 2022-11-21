@@ -9,5 +9,8 @@ The daily weather:
 - render the html elements with the fetched data
 
 
-=====================Under progress===========================
+========================Under Progress===========================
+
+- adding a local time element
+- update icons based on current temperature
 
